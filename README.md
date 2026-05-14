@@ -1,2 +1,3 @@
-# (agent) neousys@neousys-Nuvo-8108GC-Series:~/桌面/MultiAgent$ 
-- streamlit run streamlit_app.py
+# MultiAgent
+
+保险多智能体客服系统，基于 LangGraph + Streamlit 构建。
